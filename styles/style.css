@@ -93,7 +93,7 @@ position: relative;
   outline: none;
 }
 
-.search-form__textfield::placeholder{
+.search-form__textfield::placeholder {
   color: rgb(255 255 255 / 0.7);
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
